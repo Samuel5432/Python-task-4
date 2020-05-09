@@ -1,0 +1,1 @@
+{"Account Name": "Adeniyi samuel", "Account Type": "saving", "Opening Balance": 1000, "Account Email": "sa7259379@gmail.com", "Account Number": "1757831818"}
